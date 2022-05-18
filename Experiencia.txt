@@ -1,4 +1,4 @@
-Java,c++,Python
-Mysql,MongoDB,PostgreSql
+Java
+MongoDBPostgreSql
 
 
